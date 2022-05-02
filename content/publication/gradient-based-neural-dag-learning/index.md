@@ -3,10 +3,10 @@ title: Gradient-Based Neural DAG Learning
 publication_types:
   - "1"
 authors:
-  - Sébastien
+  - Sébastien Lachapelle
   - admin
-  - Tristan
-  - Simon
+  - Tristan Deleu
+  - Simon Lacoste-Julien
 publication: In *Proceedings of the Eighth International Conference on Learning
   Representations*
 publication_short: In *ICLR 2020*
@@ -16,5 +16,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-05-02T22:50:17.556Z
+date: 2020-01-02T22:50:17.556Z
 ---
