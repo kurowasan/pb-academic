@@ -16,14 +16,13 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: philippebrouillard@gmail.com
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: 2900 Edouard Montpetit Blvd
+    city: Montreal
     region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    country: Canada
+    country_code: CA
 
 design:
   columns: '2'
