@@ -12,14 +12,13 @@ authors:
   - Lacoste
   - Simon
   - Lacoste-Julien
-  - Alexandre
-  - Drouin
+  - "'Alexandre Drouin'"
 author_notes: []
 publication: In *Neural Information Processing Systems*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *NeurIPS*
+publication_short: In *NeurIPS 2020*
 url_source: ""
 url_video: ""
 title: Differentiable Causal Discovery with Interventional Data
