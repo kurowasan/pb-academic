@@ -44,6 +44,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Philippe Brouillard is a PhD student cosupervised by Dhanya Sridhar and Alexandre Drouin at the Université de Montréal (UdeM) and at MILA, the Quebec Artificial Intelligence Institute. His research interests include causal discovery, machine learning, causal representation learning, and how to combine them! 
+I am Philippe Brouillard, a PhD student cosupervised by Dhanya Sridhar and Alexandre Drouin at the Université de Montréal (UdeM) and at MILA, the Quebec Artificial Intelligence Institute. I am presently doing an internship at ServiceNow.
+
+My research interests include causal discovery, causal representation learning, machine learning, and how to combine them! 
 
 {{< icon name="download" pack="fas" >}} Download my résumé (will be added soon).
