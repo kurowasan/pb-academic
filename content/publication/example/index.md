@@ -6,13 +6,10 @@ publication_types:
   - "1"
 authors:
   - admin
-  - Sébastien
-  - Lachapelle
-  - Alexandre
-  - Lacoste
-  - Simon
-  - Lacoste-Julien
-  - "'Alexandre Drouin'"
+  - Sébastien Lachapelle
+  - Alexandre Lacoste
+  - Simon Lacoste-Julien
+  - Alexandre Drouin
 author_notes: []
 publication: In *Neural Information Processing Systems*
 summary: ""
@@ -30,9 +27,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00.000Z
+date: 2020-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2020-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
