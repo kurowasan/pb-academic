@@ -13,7 +13,7 @@ abstract: Learning a causal directed acyclic graph from data is a challenging
   architectures such as normalizing flows. We show that our approach compares
   favorably to the state of the art in a variety of settings, including perfect
   and imperfect interventions for which the targeted nodes may even be unknown.
-location: Oral presentation at NeurIPS 2020 (Virtual)
+location: Spotlight at NeurIPS 2020 (Virtual)
 date: 2020-11-26T05:00:00.000Z
 date_end: 2020-11-26T05:00:00.000Z
 all_day: false
