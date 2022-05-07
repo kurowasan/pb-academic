@@ -14,7 +14,7 @@ abstract: Learning a causal directed acyclic graph from data is a challenging
   favorably to the state of the art in a variety of settings, including perfect
   and imperfect interventions for which the targeted nodes may even be unknown.
 location: Oral presentation at NeurIPS 2020 (Virtual)
-date: 2022-05-07T16:44:27.693Z
+date: 2020-11-26T05:00:00.000Z
 date_end: 2020-11-26T05:00:00.000Z
 all_day: false
 event: NeurIPS 2020
