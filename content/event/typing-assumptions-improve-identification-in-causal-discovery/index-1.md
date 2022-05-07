@@ -1,5 +1,5 @@
 ---
-title: Typing Assumptions Improve Identification in Causal Discovery
+title: Typing Assumptions Improve Identification in Causal Discovery (MAIS)
 abstract: Causal discovery from observational data is a challenging task to
   which an exact solution cannot always be identified. Under assumptions about
   the data-generative process, the causal graph can often be identified up to an
