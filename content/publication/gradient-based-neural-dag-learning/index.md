@@ -1,5 +1,5 @@
 ---
-title: Gradient-Based Neural DAG Learning
+title: Gradient-Based Neural DAG Learning.
 publication_types:
   - "1"
 authors:
