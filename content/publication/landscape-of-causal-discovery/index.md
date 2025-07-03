@@ -1,5 +1,5 @@
 ---
-title: The Landscape of Causal Discovery Data\: Grounding Causal Discovery in Real-World Applications
+title: The Landscape of Causal Discovery Data Grounding Causal Discovery in Real-World Applications
 publication_types:
   - "1"
 authors:
