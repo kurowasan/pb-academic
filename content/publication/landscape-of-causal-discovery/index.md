@@ -10,8 +10,8 @@ authors:
   - "Karen Sachs"
   - "Alexandre Drouin"
   - "Dhanya Sridhar"
-publication: *4th Conference on Causal Learning and Reasoning*
-publication_short: In *CLeaR 2025*
+publication: "*4th Conference on Causal Learning and Reasoning*"
+publication_short: "In *CLeaR 2025*"
 draft: false
 featured: false
 image:
