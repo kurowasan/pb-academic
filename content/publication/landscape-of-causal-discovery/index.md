@@ -1,5 +1,5 @@
 ---
-title: The Landscape of Causal Discovery Data
+title: "The Landscape of Causal Discovery Data"
 publication_types:
   - "1"
 authors:
