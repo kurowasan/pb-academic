@@ -4,12 +4,12 @@ publication_types:
   - "1"
 authors:
   - admin
-  - Chandler Squires
-  - Jonas Wahl
-  - Konrad Kording
-  - Karen Sachs
-  - Alexandre Drouin
-  - Dhanya Sridhar
+  - "Chandler Squires"
+  - "Jonas Wahl"
+  - "Konrad Kording"
+  - "Karen Sachs"
+  - "Alexandre Drouin"
+  - "Dhanya Sridhar"
 publication: *4th Conference on Causal Learning and Reasoning*
 publication_short: In *CLeaR 2025*
 draft: false
