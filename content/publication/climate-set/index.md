@@ -12,7 +12,7 @@ authors:
   - "Jakob Runge"
   - "Peer Nowack"
   - "David Rolnick"
-publication: In *37th Conference on Neural Information Processing Systems*
+publication: In *37th Conference on Neural Information Processing Systems (NeurIPS)*
 publication_short: In *NeurIPS 2023 - Datasets and Benchmarks*
 draft: false
 featured: false
