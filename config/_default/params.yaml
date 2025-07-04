@@ -53,7 +53,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan, 2006'
+  date_format: ''
   time_format: ''
   address_format: en-us
 
