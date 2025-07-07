@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: UdeM
-      year: ""
+      year: "2025 (expected)"
     - course: MSc in Computer Science
       institution: UdeM
       year: 2021
@@ -44,6 +44,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am Philippe Brouillard, a PhD student cosupervised by [Dhanya Sridhar](https://www.dsridhar.com/) and [Alexandre Drouin](https://www.alexdrouin.com/) at the Université de Montréal (UdeM) and at [Mila](https://mila.quebec/en/), the Quebec Artificial Intelligence Institute. I am presently doing an internship at [ServiceNow](https://www.servicenow.com/) Research.
+I am Philippe Brouillard, a PhD student cosupervised by [Dhanya Sridhar](https://www.dsridhar.com/) and [Alexandre Drouin](https://www.alexdrouin.com/) at the Université de Montréal (UdeM) and at [Mila](https://mila.quebec/en/), the Quebec Artificial Intelligence Institute.
 
 My research interests include causal discovery, causal representation learning, machine learning, and how to combine them! 
