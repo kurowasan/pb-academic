@@ -1,6 +1,6 @@
 ---
 title: Philippe Brouillard
-role: PhD Student
+role: PhD Candidate
 avatar_filename: avatar.jpg
 bio: My research interests include causal discovery, causal representation
   learning, machine learning.
